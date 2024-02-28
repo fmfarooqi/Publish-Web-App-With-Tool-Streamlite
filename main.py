@@ -15,3 +15,4 @@ st.write('''This is our first web app.
 Learn it and enjoy it!
 ''')
 st.write(df)
+st.line_chart(df)
